@@ -17,6 +17,8 @@ Instructions:
 
 It will install some dependencies
 
-4.Type ./bashos.sh in the terminal window
+4. Go into the properties of bashos.sh and check "allow executing file as program"
 
-5.Have fun!
+5.Type ./bashos.sh in the terminal window
+
+6.Have fun!
