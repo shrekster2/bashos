@@ -13,9 +13,7 @@ Instructions:
 
 2.Extract the file (if needed)
 
-3.Open terminal window in folder and type: sudo bash ./runme.sh
-
-It will install some dependencies
+3.Open terminal window in folder and type: sudo bash ./runme.sh and it will install some dependencies
 
 4. Go into the properties of bashos.sh and check "allow executing file as program"
 
