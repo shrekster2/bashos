@@ -75,6 +75,8 @@ autologincheck(){
     fi
 }
 passmenu(){ #check user stuff
+    sleep 0.3
+    clear
     echo TYPE USERNAME:
     read -p "\\ " usernamemenu
     if [[ $usernamemenu == $username0 ]]; then
