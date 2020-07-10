@@ -21,6 +21,8 @@ firstsetup(){
     mpg123 setup.mp3&
     sleep 2
     pkill mpg123
+    echo 1
+    sleep 0.3
     clear
     echo  Hello. It seems to me that you have never set an account on this thing.
     echo  Why dont you tell us about yourself?
