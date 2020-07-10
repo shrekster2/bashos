@@ -23,14 +23,8 @@ if [[ $ssmchoice == "1" ]]; then
     /bin/bash bashos.sh
 fi
 if [[ $ssmchoice == "2" ]]; then
-    aplay complete.wav&
-    sleep 1
-    clear
     /bin/bash ./settings.sh
 fi
 if [[ $ssmchoice == "3" ]]; then
-    aplay complete.wav&
-    sleep 1
-    clear
     /bin/bash ./appmenu.sh
 fi
