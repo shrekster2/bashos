@@ -4,6 +4,13 @@ aplay startup.wav&
 sleep 4
 pkill mpg123
 clear
+usernamedir="username.bashos"
+filename='username.bashos' #check username
+while read line; do
+echo "$line"
+username0=$line
+done < $filename
+clear
 echo ----------------
 echo SUPER START MENU
 echo 1.EXIT
@@ -16,8 +23,11 @@ date
 read -p "\\ " ssmchoice
 if [[ $ssmchoice == "1" ]]; then
     clear
-    aplay shutdown.wav&
     echo GOODBYE
+	if [[ $username0 == "autologin" ]]; then
+		exit
+	fi
+	aplay shutdown.wav&
     sleep 2
     cd ..
     /bin/bash bashos.sh
