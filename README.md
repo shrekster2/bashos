@@ -1,10 +1,8 @@
 # BASH-OS
 ## BATCH-OS Clone for Linux
-BASH-OS or BATCH-OS for Linux
-is based on https://github.com/shrekster2/batch-os, it is a release converted into bash/shell. 
+BASH-OS is based on a currently private reopsitory, it is a release converted into bash/shell. 
 
 This version isn't really the main focus, so it may miss some features for a while, before they are ported over.
-This project isn't even close to the real batch-os right now, but this is a simple proof of concept.
 The recently created runme.sh only works on ubuntu, but if you are on a different distro, you need to install mpg123.
 
 Instructions:
