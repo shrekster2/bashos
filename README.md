@@ -1,5 +1,4 @@
 # BASH-OS
-## BATCH-OS Clone for Linux
 BASH-OS is based on a currently private reopsitory, it is a release converted into bash/shell. 
 
 This version isn't really the main focus, so it may miss some features for a while, before they are ported over.
