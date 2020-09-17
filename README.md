@@ -17,3 +17,5 @@ Instructions:
 5.Type ./bashos.sh in the terminal window
 
 6.Have fun!
+
+I encourage you to fork this and make it your own!
