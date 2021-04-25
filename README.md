@@ -2,7 +2,7 @@
 BASH-OS is based on a currently private reopsitory, it is a release converted into bash/shell. 
 
 This version isn't really the main focus, so it may miss some features for a while, before they are ported over.
-The recently created runme.sh only works on ubuntu, but if you are on a different distro, you need to install mpg123.
+The recently created runme.sh only works on ubuntu, but if you are on a different distro, you need to install mpg123 and spd-say.
 
 Instructions:
 
