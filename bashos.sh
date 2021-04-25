@@ -20,7 +20,6 @@ clear
 firstsetup(){
     mpg123 setup.mp3&
     sleep 2
-    pkill mpg123
     echo 1
     sleep 0.3
     clear
